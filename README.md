@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1129205531077263391/1385424091338637473/b2922692672aa9ae85fe0541afa63ae0.gif?ex=6856043b&is=6854b2bb&hm=3395ee4c028937e63f5800bd8ae0f6c65c07487e81e1c49ba10952f89e55dccd&" width="200" height="100" align="left" />
+  <img src="https://cdn.discordapp.com/attachments/1129205531077263391/1385424091338637473/b2922692672aa9ae85fe0541afa63ae0.gif?ex=6856043b&is=6854b2bb&hm=3395ee4c028937e63f5800bd8ae0f6c65c07487e81e1c49ba10952f89e55dccd&" width="170" height="90" align="left" />
 
   <h1>🍃 Katana2d-sama</h1>
 
@@ -15,19 +15,19 @@
 ### ⛩️ Sobre mim
 
 - 🗡️ Estilo: Aprendente / AT.AW.AD.AC  
-- 🎴 Fã da cultura japonesa
-- 🦊 Desenvolvedor por hobby
-- 💬 Fique à vontade shounen
+- 🎴 Fã da cultura japonesa  
+- 🦊 Desenvolvedor por hobby  
+- 💬 Fique à vontade shounen  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Katana2d-sama&show_icons=true&theme=gruvbox&hide_border=true&title_color=fe5f55&icon_color=fe5f55&text_color=eeeeee&bg_color=000000" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Katana2d-sama&show_icons=true&theme=gruvbox&hide_border=true&title_color=fe5f55&icon_color=fe5f55&text_color=eeeeee&bg_color=000000" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katana2d-sama&layout=compact&theme=gruvbox&hide_border=true&title_color=fe5f55&text_color=eeeeee&bg_color=000000" />
-</p>
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katana2d-sama&layout=compact&theme=gruvbox&hide_border=true&title_color=fe5f55&text_color=eeeeee&bg_color=000000" />
+
+</div>
 
 ---
 
@@ -49,6 +49,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Katana2d-sama/Katana2d-sama/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</p>
+
 > ✨ *"As pessoas fortes não derrubam as outras, elas ajudam-nas a se erguerem."* — Son Goku
+----------
 
 
