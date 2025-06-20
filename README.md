@@ -54,7 +54,7 @@
 ### 🐍 Snake dos repositórios
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/platane/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <img src="https://github.com/Katana2d-sama/Katana2d-sama/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
 > ✨ *"Até as folhas sabem quando o código está bonito."* — Tanuki dos bits
