@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1129205531077263391/1385424091338637473/b2922692672aa9ae85fe0541afa63ae0.gif?ex=6856043b&is=6854b2bb&hm=3395ee4c028937e63f5800bd8ae0f6c65c07487e81e1c49ba10952f89e55dccd&" width="170" height="90" align="left" />
 
-  <h1>🪭 Katana2d-sama</h1>
+  <h1>🪭 Jazznoir猫</h1>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Eu+não+sei+de+tudo;Só+sei+o+que+sei;A+diversão+está+em+criar;Yoroshiku+shounen" />
