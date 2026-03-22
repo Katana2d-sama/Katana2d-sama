@@ -2,7 +2,7 @@
 
 
   <h1>⛩️O MIKANI CORP⛩️</h1>
-  <img src="O Mikani (2).gif" width="500" align="right" />
+  <img src="omikanicorp.gif" width="500" align="right" />
   <p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Eu+não+sei+de+tudo;Só+sei+o+que+sei;O+prazer+está+em+criar;Yoroshiku+shounen" />
   </p>
