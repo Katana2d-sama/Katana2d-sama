@@ -1,24 +1,24 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1129205531077263391/1385424091338637473/b2922692672aa9ae85fe0541afa63ae0.gif?ex=6856043b&is=6854b2bb&hm=3395ee4c028937e63f5800bd8ae0f6c65c07487e81e1c49ba10952f89e55dccd&" width="170" height="90" align="left" />
 
-  <h1>🪭 Jazznoir猫</h1>
+  <h1>⛩️O MIKANI CORP⛩️</h1>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Eu+não+sei+de+tudo;Só+sei+o+que+sei;A+diversão+está+em+criar;Yoroshiku+shounen" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Eu+não+sei+de+tudo;Só+sei+o+que+sei;O+prazer+está+em+criar;Yoroshiku+shounen" />
   </p>
 
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="150" align="right" />
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="270" align="right" />
 </div>
 
 ---
 
-### ⛩️ Sobre mim
+### 📜 Sobre mim
 
-- 🗡️ Estilo: Aprendente / AT.AW.AD.AC  
-- 🎴 Fã da cultura japonesa  
-- 🦊 Desenvolvedor por hobby  
-- 💬 Fique à vontade shounen  
-
+- 🔍 Pega a dica 👉 / AT.AW.AD.AC  
+- 💻 Doujin Circle Nani ka? 
+- 🐍 Desenvolvedor Ren'py
+- 🎰 JACKPOT
+- 💴 Dobro a aposta 
 ---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -32,28 +32,21 @@
 ---
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+
 </p>
 
 ---
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Katana2d-sama/Katana2d-sama/blob/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
-</p>
-
-> ✨ *"As pessoas fortes não derrubam as outras, elas ajudam-nas a se erguerem."* — Son Goku
+> ✨ *"Dormir é uma aposta para acordar, vai jogar fora seu jackpot?"* — O MIKANI
 ----------
 
 
