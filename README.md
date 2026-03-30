@@ -30,9 +30,18 @@
 <div align="left"> <img src="https://skillicons.dev/icons?i=python,react,docker" /> </div>
 
 ---
+<div align="center">
+🖼️ MURAL 🖼️
+</div>
 
-🖼️ [Memórias Fragmentadas]
-<div align="center"> <img src="https://i.pinimg.com/236x/xx/xx/xx.jpg" width="100"/> <img src="https://i.pinimg.com/236x/xx/xx/xx.jpg" width="100"/> <img src="https://i.pinimg.com/236x/xx/xx/xx.jpg" width="100"/> <br> <img src="https://i.pinimg.com/236x/xx/xx/xx.jpg" width="100"/> <img src="https://i.pinimg.com/236x/xx/xx/xx.jpg" width="100"/> <img src="https://i.pinimg.com/236x/xx/xx/xx.jpg" width="100"/> </div>
+---
+
+<div align="center"> <img src="assets/images/Enju_and_me.png" width="300"/> 
+<img src="assets/images/Enju_and_me.png" width="300"/> 
+<img src="assets/images/Enju_and_me.png" width="300"/> <br> 
+<img src="assets/images/Enju_and_me.png" width="300"/> 
+<img src="assets/images/Enju_and_me.png" width="300"/> 
+<img src="assets/images/Enju_and_me.png" width="300"/> </div>
 
 ---
 
