@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ミカエル.exe</h1>
 
-  <img src="omikanicorp.gif" width="500" align="right" />
+  <img src="omikanicorp.gif" width="400" align="right" />
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Watashi+wa+Mikael+desu;Eu+não+sei+de+tudo;Só+sei+o+que+sei;Obsessão+ganha+de+talento;Todas+as+vezes" />
