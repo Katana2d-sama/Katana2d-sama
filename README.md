@@ -36,7 +36,7 @@
 
 ---
 
-<div align="center"> <img src="assets/images/Enju_and_me.png" width="300"/> 
+<div align="center"> 
 <img src="assets/images/Enju_and_me.png" width="300"/> 
 </div>
 
