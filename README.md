@@ -38,10 +38,7 @@
 
 <div align="center"> <img src="assets/images/Enju_and_me.png" width="300"/> 
 <img src="assets/images/Enju_and_me.png" width="300"/> 
-<img src="assets/images/Enju_and_me.png" width="300"/> <br> 
-<img src="assets/images/Enju_and_me.png" width="300"/> 
-<img src="assets/images/Enju_and_me.png" width="300"/> 
-<img src="assets/images/Enju_and_me.png" width="300"/> </div>
+</div>
 
 ---
 
